@@ -23,7 +23,7 @@ package main
 
 import (
 	"github.com/gomodule/redigo/redis"
-	"github.com/gocraft/work"
+	"github.com/bright-coder/work"
 )
 
 // Make a redis pool
@@ -59,7 +59,7 @@ package main
 
 import (
 	"github.com/gomodule/redigo/redis"
-	"github.com/gocraft/work"
+	"github.com/bright-coder/work"
 	"os"
 	"os/signal"
 )
