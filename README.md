@@ -247,8 +247,8 @@ The web UI provides a view to view the state of your gocraft/work cluster, inspe
 
 Building an installing the binary:
 ```bash
-go get github.com/gocraft/work/cmd/workwebui
-go install github.com/gocraft/work/cmd/workwebui
+go get github.com/bright-coder/work/cmd/workwebui
+go install github.com/bright-coder/work/cmd/workwebui
 ```
 
 Then, you can run it:
